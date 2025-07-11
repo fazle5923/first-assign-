@@ -197,3 +197,34 @@ h5{
     color: #000000;
 }
 
+.below-marg{
+    margin-bottom: 19px;
+}
+
+.btn-touch{
+    background-color:#4E47FF ;
+    color: #FFFFFF;
+    border-radius: 10px;
+    width: 497px;
+    height: 62hug;
+}
+
+.foot{
+    text-align: center;
+}
+
+.logo{
+    margin-top: 2em;
+    font-size: 4em; 
+    text-align: center;
+    font-weight: bolder;
+}
+.footer nav a{
+    text-decoration: none;
+    color: gainsboro; 
+    margin: 0 0 0.5em; 
+}
+
+
+
+
