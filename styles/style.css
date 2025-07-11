@@ -54,6 +54,7 @@ h2{
 .container{
     text-align: center;
     
+    
 }
 .header{
     background-image: url("../Assets/Hero-bg.png");
@@ -66,6 +67,7 @@ h2{
     align-content: center;
     align-items: center;
     gap: auto;
+
 }
 
 .picture{
@@ -87,6 +89,55 @@ h3{
     color:#FFFFFF ;
     border: none;
     border-radius: 10px;
+    
 
 }
+main{
+    margin-bottom: 1em;
+}
+.action-user{
+   
+    text-align: center;
+    justify-content: space-around;
+    width: 1140px;
+    height: 306px;
+    justify-content: center;
+    background-color:#7E76ED; 
+    margin: 2em auto;
+    border-radius: 25px;
 
+    
+
+}
+.secondary-user{
+    width: 856;
+    height: 206;
+    padding: 80px 50px;
+}
+.advertise{
+    display: flex;
+    gap: 0 158px;
+    justify-content: space-around;
+}
+.secondary-user{
+    justify-content: space-between
+    align-items: center;
+    margin: 0 auto;
+}
+
+h4{
+    color: white;
+    margin-bottom: 40px;
+}
+
+span{
+    font-weight: bold;
+    font-size: 80px;
+    color: antiquewhite;
+}
+.size{
+    font-size: 20px;
+}
+.heading-size{
+    font-size: 38px;
+}
