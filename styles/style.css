@@ -225,6 +225,34 @@ h5{
     margin: 0 0 0.5em; 
 }
 
+.focus-sec{
+    display: block;
+    text-align: center;
+   
+
+}
+.focus-header{
+    font-weight: bold;
+    font-size: 2em;
+    margin-bottom: 0.5em;
+}
+
+.head-para{
+    font-weight: lighter;
+    color: grey;
+     margin-bottom: 0.5em;
+}
+
+.free-btn{
+     width: 174px;
+    height: 48px;
+    background-color: #4E47FF; 
+    color: #FFFFFF; 
+    border-radius: 10px;
+    border: none;
+    gap: auto;
+    margin-bottom: 1em;
+}
 
 
 
