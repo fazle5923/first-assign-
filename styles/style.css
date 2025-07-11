@@ -141,3 +141,24 @@ span{
 .heading-size{
     font-size: 38px;
 }
+
+.users-review{
+    width: 1140px;
+    height: 342px;
+
+}
+
+
+.reviewer{
+    display: flex;
+}
+.besides{
+    display: flex;
+    justify-content: space-around;
+    width: 1140px;
+    height: 342px;
+    margin: 0 0 0 10em; 
+  
+    
+    
+}
